@@ -1,3 +1,65 @@
+from pyspark.sql import functions as F
+from pyspark.sql.types import MapType, StringType
+import json
+
+# UDF to flatten an arbitrary JSON string into a flat dictionary
+def flatten_json(raw_json):
+    """
+    Recursively flattens a JSON object into a dictionary of path -> value.
+    Arrays are converted to JSON strings.
+    """
+    def _flatten(obj, prefix='', out_dict=None):
+        if out_dict is None:
+            out_dict = {}
+        if isinstance(obj, dict):
+            for k, v in obj.items():
+                new_key = f"{prefix}.{k}" if prefix else k
+                _flatten(v, new_key, out_dict)
+        elif isinstance(obj, list):
+            # Serialise lists as JSON strings
+            out_dict[prefix] = json.dumps(obj, ensure_ascii=False)
+        else:
+            out_dict[prefix] = obj
+        return out_dict
+
+    # Parse the JSON string; return an empty map if parsing fails
+    try:
+        parsed = json.loads(raw_json)
+    except Exception:
+        return {}
+    flat_dict = _flatten(parsed)
+    # Convert all values to strings for a generic schema
+    return {k: str(v) if v is not None else None for k, v in flat_dict.items()}
+
+# Register the UDF with an explicit return type of MapType
+flatten_json_udf = F.udf(flatten_json, MapType(StringType(), StringType()))
+
+# Read the bronze table as a streaming source
+bronze_df = spark.readStream.table("bronze.api_responses")
+
+# Apply the flattening UDF to produce a key/value map
+kv_df = bronze_df.withColumn("kv_map", flatten_json_udf(F.col("raw_json")))
+
+# Explode the map into individual key/value rows
+kv_pairs = kv_df.select(
+    "api_name",
+    "ingestion_time",
+    F.explode("kv_map").alias("kv_pair")
+).select(
+    "api_name",
+    "ingestion_time",
+    F.col("kv_pair").getItem("key").alias("key"),
+    F.col("kv_pair").getItem("value").alias("value")
+)
+
+# Write the key/value pairs to the silver table with checkpointing
+(kv_pairs.writeStream
+    .format("delta")
+    .option("checkpointLocation", "/mnt/checkpoints/silver_kv")
+    .outputMode("append")
+    .table("silver.api_responses_keyvalue")
+)
+
 Here’s a concrete pattern you can lift into Databricks: a **generic audit + lineage module** (PySpark) that any DLT ingestion pipeline can reuse, with configuration stored in Unity Catalog.
 
 I’ll break it into:
