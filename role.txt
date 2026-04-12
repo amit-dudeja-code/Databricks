@@ -1,0 +1,377 @@
+Role Description 
+Principal DevOps Engineer 
+Role Description Fields 
+Details 
+Cluster 
+Customer Service 
+Department/Agency 
+Department of Customer Service 
+Division/Branch/Unit 
+Customer Delivery and Transformation / Revenue NSW / Revenue Digital 
+Classification/Grade/Band 
+Grade 11/12 
+ANZSCO Code 
+261316 
+PCAT Code 
+1326468 
+Role Family/Function/Type 
+Digital & ICT/Software/Application Development/ Development, Security, 
+Operations (Dev/Sec/Ops) 
+Date of Approval 
+February 2022 
+Agency website 
+www.customerservice.nsw.gov.au  
+Primary purpose of the role 
+Lead end to end development of product and platform services through collaborative build, release, 
+maintenance and enhancement of product features, to deliver high quality services which provide fit-for
+purpose, resilient and reusable services. The role brings together the software development activities and 
+drives standard practices that support system-controlled governance and automation throughout. It 
+provides technical advice to the team and supports the team’s platforms, maintenance and administration.  
+Key accountabilities 
+• Drive and ensure the adoption of DevOps practises, continuous improvement, performance metrics, 
+providing coaching and professional development initiatives to align resources to deliver high 
+quality, efficient and compliant services and a positive customer experience 
+• Collaborate with customers and stakeholders to ensure the technological endeavours are aligned 
+with the business endeavours 
+• Provide technical expertise to product development and platform solution design, and work across 
+product teams as part of the discovery process to foster a culture of collaboration and ensure 
+optimum service delivery 
+• Design through consultation, and implement approved processes (document and train)  
+• Build, fine-tune and manage the software development lifecycle framework, applying best practice 
+methodologies and industry recognised standards to improve the quality, security and reuse of 
+platform products and reduce operational risk 
+• Integrate, consolidate, standardize, automate the framework in close collaboration with development 
+teams to deliver high quality services  
+• Initiate or participate in discovery process with cross-functional product teams to ensure optimal 
+service delivery   
+• Partner with colleagues and key stakeholders on strategy and vision to develop, establish and 
+maintain fit-for-purpose digital services, in order to deliver valuable solutions for customers 
+Key challenges 
+• Building relationships with the digital team, business representatives and contractors to meet client 
+requests and requirements with competing interests, schedules and projects 
+• Identifying and balancing competing roadmap, platform services maintenance and project demands 
+to ensure deliverables are achieved 
+• Keeping up to date with best practice industry standards in a high-volume work environment with 
+tight deadlines 
+Key relationships 
+Internal 
+Who 
+Why 
+Manager 
+•  Escalate issues, keep informed, advise and receive instructions 
+•  Inform on agreed approach 
+•  Identify risks, opportunities and emerging and contentious issues to 
+facilitate informed decision making  
+• Conduct/participate in meetings to represent work group perspective and 
+share information 
+Work Teams 
+• Provide clear and consistent communication to product teams to ensure 
+consistent execution of architectural strategy.  
+• Support and mentor team members to work collaboratively to achieve 
+business outcomes including executing strategy 
+Customers/Stakeholders 
+• Provide a customer-focused approach to platform delivery  
+• Communicate with stakeholders on technology subjects in a business 
+context  
+• Manage the flow of information, seek clarification and provide customer 
+focused advice and responses to ensure prompt resolution of issues  
+• Address/respond to queries to provide advice where possible or redirect 
+to relevant party for review and resolution 
+External 
+Who 
+Why 
+Partner Agencies 
+•  Work collaboratively to contribute to achieving business outcomes 
+•  Resolve and provide solutions to issues 
+Vendors 
+•  Collaborate as a single team to deliver on/off roadmap initiatives 
+•  Escalate issues to address current and potential problems 
+Role dimensions 
+Decision making 
+This role has autonomy and makes decisions that are under their direct control as directed by their 
+Manager. It refers to the Manager decisions that require significant change to program outcomes or 
+timeframes or are likely to escalate. This role is fully accountable for the delivery of work assignments on 
+time and to expectations in terms of quality, deliverable and outcomes. This role submits reports, business 
+cases and other forms of written advice with minimal input from the Manager 
+Reporting line 
+Manager  
+Direct reports 
+This role has no direct reports 
+2  
+Role Description: Principal DevOps Engineer 
+Budget/Expenditure 
+As per the Customer Service Delegations  
+Key knowledge and experience 
+• Extensive demonstrable experience as a Principal DevOps Engineer, or equivalent.  
+• Expertise in CI/CD, platform integration, automation and building cloud native solutions.  
+• Expertise in standardizing and integrating monitoring and alerting. 
+• Expertise in cloud cost management and software development governance. 
+Capabilities for the role 
+The NSW public sector capability framework describes the capabilities (knowledge, skills and abilities) needed 
+to perform a role. There are four main groups of capabilities: personal attributes, relationships, results and 
+business enablers, with a fifth people management group of capabilities for roles with managerial 
+responsibilities. These groups, combined with capabilities drawn from occupation-specific capability sets 
+where relevant, work together to provide an understanding of the capabilities needed for the role. 
+The capabilities are separated into focus capabilities and complementary capabilities 
+Focus capabilities  
+Focus capabilities are the capabilities considered the most important for effective performance of the role. 
+These capabilities will be assessed at recruitment.  
+The focus capabilities for this role are shown below with a brief explanation of what each capability covers 
+and the indicators describing the types of behaviours expected at each level. 
+Focus capabilities 
+Capability 
+group/sets 
+Capability name 
+Behavioural indicators 
+Level 
+Manage Self 
+Show drive and motivation, an 
+ability to self-reflect and a 
+commitment to learning 
+Advanced 
+• Act as a professional role model for colleagues, 
+set high personal goals and take pride in their 
+achievement 
+• Actively seek, reflect and act on feedback on own 
+performance 
+• Translate negative feedback into an opportunity 
+to improve 
+• Take the initiative and act in a decisive way 
+• Demonstrate a strong interest in new knowledge 
+and emerging practices relevant to the 
+organisation 
+3  
+Role Description: Principal DevOps Engineer 
+Communicate Effectively 
+Communicate clearly, actively 
+listen to others, and respond 
+with understanding and 
+respect 
+Advanced 
+• Present with credibility, engage diverse 
+audiences and test levels of understanding 
+• Translate technical and complex information 
+clearly and concisely for diverse audiences 
+• Create opportunities for others to contribute to 
+discussion and debate  
+• Contribute to and promote information sharing 
+across the organisation  
+• Manage complex communications that involve 
+understanding and responding to multiple and 
+divergent viewpoints 
+• Explore creative ways to engage diverse 
+audiences and communicate information 
+• Adjust style and approach to optimise outcomes 
+• Write fluently and persuasively in plain English 
+and in a range of styles and formats 
+Commit to Customer 
+Service 
+Provide customer-focused 
+services in line with public 
+sector and organisational 
+objectives 
+• Promote a customer-focused culture in the 
+organisation and consider new ways of working to 
+improve customer experience   
+• Ensure systems are in place to capture customer 
+service insights to improve services  
+• Initiate and develop partnerships with customers 
+to define and evaluate service performance 
+outcomes 
+• Promote and manage alliances within the 
+organisation and across the public, private and 
+community sectors  
+• Liaise with senior stakeholders on key issues and 
+provide expert and influential advice 
+• Identify and incorporate the interests and needs 
+of customers in business process design and 
+encourage new ideas and innovative approaches  
+• Ensure that the organisation’s systems, 
+processes, policies and programs respond to 
+customer needs 
+Advanced 
+Deliver Results 
+Achieve results through the 
+efficient use of resources and 
+a commitment to quality 
+outcomes 
+Advanced 
+• Seek and apply the expertise of key individuals to 
+achieve organisational outcomes 
+• Drive a culture of achievement and acknowledge 
+input from others 
+• Determine how outcomes will be measured and 
+guide others on evaluation methods  
+• Investigate and create opportunities to enhance 
+the achievement of organisational objectives  
+• Make sure others understand that on-time and 
+on-budget results are required and how overall 
+success is defined 
+• Control business unit output to ensure 
+government outcomes are achieved within 
+budgets 
+• Progress organisational priorities and ensure that 
+resources are acquired and used effectively 
+Role Description: Principal DevOps Engineer 
+4  
+Think and Solve Problems 
+Think, analyse and consider 
+the broader context to develop 
+practical solutions 
+Advanced 
+• Undertake objective, critical analysis to draw 
+accurate conclusions that recognise and manage 
+contextual issues 
+• Work through issues, weigh up alternatives and 
+identify the most effective solutions in 
+collaboration with others 
+• Take account of the wider business context when 
+considering options to resolve issues 
+• Explore a range of possibilities and creative 
+alternatives to contribute to system, process and 
+business improvements 
+• Implement systems and processes that are 
+underpinned by high quality research and 
+analysis 
+• Look for opportunities to design innovative 
+solutions to meet user needs and service 
+demands  
+• Evaluate the performance and effectiveness of 
+services, policies and programs against clear 
+criteria 
+Technology 
+Understand and use available 
+technologies to maximise 
+efficiencies and effectiveness 
+• Champion the use of innovative technologies in 
+the workplace 
+• Actively manage risk to ensure compliance with 
+cyber security and acceptable use of technology 
+policies 
+• Keep up to date with emerging technologies and 
+technology trends to understand how their 
+application can support business outcomes 
+• Seek advice from appropriate subject-matter 
+experts on using technologies to achieve 
+business strategies and outcomes 
+• Actively manage risk of breaches to appropriate 
+records, information and knowledge management 
+systems, protocols and policies 
+Advanced 
+Occupation specific capability set 
+Capability 
+group/sets 
+Capability name 
+Behavioural indicators 
+Level 
+Role Description: Principal DevOps Engineer 
+5  
+Systems development 
+management 
+Planning, estimating and 
+executing systems 
+development work to time, 
+budget and quality targets. 
+Level 5 - 
+DLMG 
+• Plans and drives systems development projects 
+which support the organisation’s objectives and 
+plans. 
+• Selects, adopts and adapts appropriate systems 
+development methods, tools and techniques. 
+• Ensures that stakeholders are aware of required 
+resources and that they are made available. 
+• Facilitates availability and optimum utilisation of 
+resources. 
+• Monitors and reports on the progress of 
+development projects.  
+• Ensures projects are carried out in accordance 
+with agreed architectures, standards, methods 
+and tools and addresses security and privacy 
+requirements. 
+• Develops road maps to communicate future 
+development activity. 
+Systems integration and 
+build 
+Planning, implementing and 
+controlling activities to 
+synthesise system 
+components to create 
+operational systems, products 
+or services. 
+• Plans and drives activities to develop 
+organisational systems integration and build 
+capabilities including automation and continuous 
+integration. 
+• Identifies, evaluates and manages the adoption of 
+tools, techniques and processes to create a 
+robust integration framework.  
+• Provides authoritative advice and guidance on 
+any aspect of systems integration. 
+• Leads integration work in line with the agreed 
+system and service design.  
+• Assesses risks and takes preventative action.  
+• Measures and monitors applications of standards. 
+• Contributes to the development of organisational 
+policies, standards, and guidelines for systems 
+integration. 
+Level 5
+SINT 
+Complementary capabilities 
+Complementary capabilities are also identified from the Capability Framework and relevant occupation
+specific capability sets. They are important to identifying performance required for the role and development 
+opportunities.  
+Note: capabilities listed as ‘not essential’ for this role are not relevant for recruitment purposes however 
+may be relevant for future career development. 
+Capability 
+group/sets 
+Capability name 
+Description 
+Level 
+Display Resilience and 
+Courage 
+Be open and honest, prepared to express your views, 
+and willing to accept and commit to change 
+Adept 
+Act with Integrity 
+Be ethical and professional, and uphold and promote 
+the public sector values 
+Highly 
+Advanced 
+Role Description: Principal DevOps Engineer 
+6  
+Value Diversity and Inclusion 
+Demonstrate inclusive behaviour and show respect 
+for diverse backgrounds, experiences and 
+perspectives 
+Adept 
+Work Collaboratively 
+Collaborate with others and value their contribution 
+Adept 
+Influence and Negotiate 
+Gain consensus and commitment from others, and 
+resolve issues and conflicts 
+Adept 
+Plan and Prioritise 
+Plan to achieve priority outcomes and respond flexibly 
+to changing circumstances 
+Adept 
+Demonstrate Accountability 
+Be proactive and responsible for own actions, and 
+adhere to legislation, policy and guidelines 
+Adept 
+Finance 
+Understand and apply financial processes to achieve 
+value for money and minimise financial risk 
+Intermediate 
+Procurement and Contract 
+Management 
+Understand and apply procurement processes to 
+ensure effective purchasing and contract performance 
+Intermediate 
+Project Management 
+Understand and apply effective project planning, 
+coordination and control methods 
+Adept 
+Role Description: Principal DevOps Engineer 
+7  
