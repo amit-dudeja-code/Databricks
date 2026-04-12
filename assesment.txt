@@ -1,0 +1,131 @@
+au.support@criteriacorp.com if you are having any technical issues with this platform.
+Assessment link: https://au.ondemandassessment.com/o/JB-0UTVIV00Y/landing?u=1033423
+Please note this link is not to be shared with anyone else
+If you require a reasonable adjustment to participate in this process please email CSrecruitment@customerservice.nsw.gov.au
+
+If you have any questions, please contact the Talent Team on CSrecruitment@customerservice.nsw.gov.au
+This is an exciting step in your potential career at NSW Telco Authority, NSW Department of Customer Service, we look forward to getting to know you better.
+
+
+                         
+
+WORK TASK - CONFIDENTIAL
+
+DIVISION	Digital Technology and Innovation
+JOB REF	
+POSITION	Principal DevOps Engineer
+
+
+
+Work Assessment Task
+Scenario
+You are joining a team with a greenfield data engineering landscape. The current state is immature: the organisation utilises environments owned/managed by other business units with limited and inconsistent pipeline practices together with uncertainty around data holdings.
+Initiatives lack standardisation and there are gaps around development communities of practice. The organisation needs an enterprise capability to ingest multiple data streams/feeds, curate trusted outputs, and provide governed access points (datasets/feeds/APIs) for broad reuse to internal and external customer groups.
+The organisation intends to implement this capability using its available cloud environments (Azure and AWS). To start the initiative, management suggest Azure products should be utilised and expect the Principal DevOps Engineer to take ownership of transitioning current state into a repeatable, governable, and operable pipeline and DevOps operating model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructions
+Prepare a short pack that covers both strategy and delivery. You may use diagrams, bullets, or plain English, but keep it concise.
+Deliverable A — 2-page written brief (maximum) covering:
+Provide a concise written brief that explains how you would establish and deliver a data pipeline and DevOps capability in the scenario described. Your brief should clearly communicate your thinking, priorities, and approach rather than attempting to document a complete or idealised solution. You are encouraged to focus on what you believe matters most in the early establishment of a sustainable capability. In your response, you may wish to address the following areas.
+
+Target Operating Model and Governance Foundations
+Describe how you would structure the operating model so that data pipelines can be delivered in a way that is repeatable, governable, and operable. This may include:
+•	how you define and distinguish data streams or feeds in your model, and how different stream types are treated
+•	how you think about and separate behaviours such as ingestion, publication of curated outputs, and provisioning of access points
+•	what governance artefacts you consider essential early (for example, standards, registers, ownership or accountability constructs), and why
+•	how governance intent is made effective in practice, particularly how it is embedded into delivery and automation rather than relying on manual review
+
+You should also describe how you would bring engineers with differing levels of experience and maturity along with these standards and ways of working, including how you would encourage adoption and respond to inconsistency.
+________________________________________
+Reference Architecture (Azure based)
+Provide a high level reference architecture that supports your proposed operating model.
+This should focus on concepts and structure rather than product configuration, and may include:
+•	how you organise ingestion, raw/bronze, curated/silver, consumable/gold, and access layers
+•	how identity and access are approached at a high level, including least privilege considerations
+•	how observability, lineage, and audit are treated as default characteristics of pipelines rather than optional features
+
+The intent is to demonstrate operability, scalability, and reuse, not to present a detailed implementation design.
+________________________________________
+
+
+
+90 Day Delivery Plan (MVP to Production)
+Describe how you would transition from the current state to a functioning production capability within the first 90 days. This may include:
+•	what you would aim to deliver in the first 30, 60, and 90 days
+•	what outcomes would indicate progress or success at each stage
+•	what you would explicitly choose to defer or not attempt in this period, and the reasoning behind those decisions
+•	how you would set expectations, coach others, and establish delivery momentum in parallel with technical work
+
+The plan should demonstrate pragmatism, prioritisation, and leadership judgement, not completeness.
+________________________________________
+
+Intent of this Deliverable
+This deliverable is intended to assess:
+•	how you structure and reason through an ambiguous, greenfield problem
+•	what you prioritise when establishing a new capability
+•	how you balance governance, delivery, and people leadership
+•	how you communicate complex technical intent clearly and concisely
+
+There is no single “correct” answer. The panel is interested in how you think and lead, as much as what you propose
+
+________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deliverable B — Leadership Presentation (5 - 7 minutes maximum)
+During the interview, you will be asked to deliver a short leadership presentation based on your written brief.
+This presentation is not intended to restate the full content of Deliverable A. Instead, it should demonstrate how you communicate intent, priorities, and judgement to a mixed audience.
+
+Presentation Focus - In 7 minutes (maximum), present elements such as:
+1.	Your core intent
+o	What you are trying to establish in the first 90 days, and why
+o	What success looks like at the end of that period
+2.	Your top priorities
+o	The two or three decisions you believe matter most early
+o	What you deliberately deprioritised or deferred, and why
+3.	One key trade off
+o	A technical, governance, or delivery trade off you made
+o	What risk you accepted, and how you would mitigate it over time
+
+You do not need to walk through architecture diagrams or repeat written material unless it directly supports one of the points above.
+
+Audience
+Assume you are presenting to:
+•	an architecture leader
+•	a product owner
+•	an engineering lead
+
+Your language and emphasis should reflect this mixed audience.
+
+We are not assessing presentation polish. 
+We are assessing clarity of thinking and leadership judgement.
