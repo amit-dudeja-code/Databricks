@@ -1,5 +1,36 @@
-Microsoft Teams meeting
-Join: https://teams.microsoft.com/meet/450639635775348?p=GKCwTwzGXjxh6JkDfo
-Meeting ID: 450 639 635 775 348
-Passcode: vi93oK7D
-Need help? | System reference
+“Ausgrid is an electricity distribution company which owns, maintains and operates the electrical networks supplying 1.8 million customers servicing more than 4 million people in Sydney, the Central Coast and Hunter regions of New South Wales, Australia.”
+ 
+ASAP start until the 30/06/2027, with possible extension with daily rate of $900 - $1000 + Super PAYG.
+ 
+Official location for this role is Haymarket with flexible working arrangements in place.
+ 
+Job Details:
+While this role is a Business Analyst role, responsible for providing a broad range of expert business analysis, reporting and advice, for the purpose of implementing improved processes and reporting, in this particular requisition we are focused on a BA that will work within Data Services and Platforms.
+Additional criteria include:
+Strong data requirements gathering — ability to translate business needs into clear, structured data requirements and user stories.
+Understanding of data modelling concepts — e.g., entities, relationships, canonical models, and how data flows through Bronze → Silver → Gold layers.
+Ability to interpret and profile data — comfortable exploring datasets, identifying data issues, and validating assumptions.
+Clear articulation of business rules — ability to define transformations, logic, and quality expectations in a way that engineers can implement.
+Familiarity with modern data platforms — e.g., cloud‑based data lakes, warehouses, event streams, and API‑driven architectures.
+ 
+If you would like to be considered for this role and permit Aurec exclusive representation of your candidacy (do not duplicate), please reply to this email including the following points:
+ 
+1) Updated resume (in word format):
+2a) Legal Name:
+2b) Preferred Name:
+3) Residency/visa status:
+4 State of Residence (For duration of assignment):
+5) PAYG or ABN?
+6) Expected daily rate (Exc Super for PAYG or Exc GST for ABN):
+7) Preferred mobile number:
+8) Any leave or holidays planned during the period of the contract?
+9) Please view the location & research the commute. Are you happy with the location & WFH arrangement?
+10) Date & month of your birth date DD/MM (for portal submission):
+11. Police checks are required for this client. Are you happy to provide if successful?
+12a) Have you worked for Ausgrid previously? If yes please provide details (i.e. Business unit, dates, position, manager):
+12b) Have you interviewed with this client in the last 6-Months? If yes, please provide details:
+13) Availability to commence/notice period:
+14) A few tailored sentences summarising your relatable experience. Must be your words, AI responses will not be accepted.
+
+Please ensure you have not already been represented for this specific role and do not allow any other agency to represent you as this will reflect badly on us and impact your future candidacy.
+
