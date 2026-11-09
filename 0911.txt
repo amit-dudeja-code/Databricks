@@ -1,0 +1,146 @@
+Microsoft Teams meeting
+Join: https://teams.microsoft.com/meet/435172057720867?p=JENg6x3Jbq0oKcuqwX
+Meeting ID: 435 172 057 720 867
+Passcode: uX9yj7YQ
+----------------------------
+Hi Amit,
+
+ Congratulations on securing an interview with Ausgrid  for the position of Senior Data Business Analyst!
+
+ The interview is scheduled for Tuesday 10th November at 10:00am – 10:45am via MS Teams. You should receive an invite from the team.
+
+I would recommend checking the media to see if there are any current initiatives that might be relevant, this will also help you better understand the client.
+
+Position Description:
+
+I’ve attached the position description so please re-familiarise yourself.
+
+Interview Panel:
+
+Bianca Walton – Transformation Program Manager
+Jane Diaz-Hung – Senior Project Manager
+ 
+ Job Details:
+While this role is a Business Analyst role, responsible for providing a broad range of expert business analysis, reporting and advice, for the purpose of implementing improved processes and reporting, in this particular requisition we are focused on a BA that will work within Data Services and Platforms.
+ 
+Additional criteria include:
+Strong data requirements gathering — ability to translate business needs into clear, structured data requirements and user stories.
+Understanding of data modelling concepts — e.g., entities, relationships, canonical models, and how data flows through Bronze → Silver → Gold layers.
+Ability to interpret and profile data — comfortable exploring datasets, identifying data issues, and validating assumptions.
+Clear articulation of business rules — ability to define transformations, logic, and quality expectations in a way that engineers can implement.
+Familiarity with modern data platforms — e.g., cloud‑based data lakes, warehouses, event streams, and API‑driven architectures.
+ Important:
+Now that you know what skills/experience the client is seeking, you can use this information to your advantage by relaying your relevant experiences into your responses. Think about examples you can articulate that will help give them the confidence that you have the experience to hit the ground running and succeed in the role.
+Interview Style:  
+The interview will be up to 55 minutes. You can expect a mixture of technical & behavioural questions as they seek to better understand your technical competency, but also ensure you have the behavioural characteristics and soft skills to succeed in the role.
+
+
+The panel wants a good quality answer to:
+ 
+A data product specific use case where they can talk to the objective, key data sources, and how modelling was approached
+A data product specific use case where they can talk about technical and non-technical stakeholders and how they managed those relationships
+And finally, specifically their approach to estimation and how they manage initial triage and managing expectations of business stakeholders with the priorities of the delivery team capacity
+ Attire:
+I would always recommend you dress up for any interview in smart business attire, even if this is not what you would be expected to wear day to day.  
+
+Examples:
+Always provide real life examples as opposed to textbook or theoretical examples if possible. Try and articulate the challenges, you were able to overcome and bonus points if you can convey any tangible business outcomes.  
+
+ STAR Method:
+Use of the STAR method (Situation, Task, Action, Result) is the preferred interview technique for relaying your examples or storytelling.
+
+ Rate/Salary:
+It’s unlikely they will ask you about rate or salary during your interview. If they do, I recommend saying something along the lines of “I’m far more interested in the role & opportunity than remuneration. I’m sure that if you think I’m the best candidate for the role that you’ll compensate me accordingly.”
+
+ Questions:
+Very important. Make sure you have some questions for them as you should also be qualifying this role for yourself. In my experience, it’s the candidates who ask intelligent, thought-provoking questions that show a genuine curiosity in the role that leave a lasting impression in the eye of the hiring managers.
+
+ Time keeping:
+If your interview is via MS Teams, you should log into the meeting 1-minute before your interview time and no sooner. If your interview is in person, announce yourself at reception 3-5-minutes before your interview time and no sooner.
+
+ Don’t hesitate to reach out if you have any further questions.
+
+--------------------------------
+
+## What the panel is looking for
+
+This role needs someone who can connect business outcomes to implementable data requirements: investigate sources, define models and transformation rules, set quality expectations, and keep delivery teams and stakeholders aligned. Your strongest evidence is your recent data product work at Service NSW and CBA, plus your measurable outcomes at CBA and Westpac. Your CV supports those examples, but it doesn’t name every source system or downstream consumer, so fill in those specifics from memory rather than guessing. 
+
+The position description emphasizes data product discovery, medallion architecture, clear business rules, delivery coordination, scope management, and decision traceability. 
+
+## Your opening pitch
+
+> “I’m a Senior Data Business Analyst with more than 18 years across data, analytics and technology, including banking and government. My strength is translating business needs into data requirements that engineering teams can build and business users can validate: source-to-target mappings, transformation rules, quality controls, metrics and acceptance criteria. In my recent roles I’ve worked hands-on with SQL, Python, Databricks and medallion architecture, and I’m comfortable working across product, engineering and business stakeholders. I’m interested in this role because it brings those parts together around enterprise data products.”
+
+Aim for about a minute. Then let the panel choose where to go deeper.
+
+## Three stories to prepare
+
+Use these as spoken outlines, not scripts. Keep each answer to about two minutes, then pause for questions.
+
+### 1. A data product: Service NSW telecommunications data
+
+**Situation:** “At Service NSW, we needed to make telecommunications data from multiple government and external systems usable for analytics.”
+
+**Task:** “I was responsible for clarifying what the data product needed to contain and how it should move from source data to business-ready data.”
+
+**Action:** “I profiled the datasets with SQL, Python and Databricks to find duplicate entities, missing attributes, inconsistent terminology and quality issues. I documented source-to-target mappings, including joins, derivations, reference data, validation and exception handling. I separated the requirements by Bronze, Silver and Gold: ingestion expectations, cleansing and standardisation, then business definitions and metrics for consumption. I also set measurable quality checks and led business validation using reconciliation and expected-result testing.”
+
+**Result:** “The requirements gave engineering a clearer implementation target and gave business users a way to validate the result before release. I also helped define a Databricks metadata enrichment solution so technical schemas could be described in business-friendly terms.”
+
+**Be ready to add:** the actual business objective, the main source systems, who consumed the Gold data, and one concrete issue you caught during profiling. Those details aren’t specified in the CV summary.
+
+### 2. Stakeholder alignment and delivery impact: CBA
+
+**Situation:** “At CBA, I worked on data products integrating hundreds of enterprise datasets, with business, analytics and technology teams involved.”
+
+**Task:** “I needed to make requirements consistent enough that different delivery teams could implement and validate them reliably.”
+
+**Action:** “I gathered needs across those groups, profiled source data, and documented mappings and transformation rules covering joins, filters, derivations, reference data and reconciliation. I worked with engineers to clarify the rules and automate quality checks. I also standardised requirements templates and transformation patterns, so teams had a more reusable starting point for new datasets.”
+
+**Result:** “That work contributed to approximately 35% lower engineering effort when onboarding new enterprise datasets. It also supported reusable business and data-quality rules across delivery streams.”
+
+**Be ready to add:** how you handled a disagreement over a definition or scope, who made the final decision, and how you kept that decision visible in the backlog or documentation.
+
+### 3. Triage, estimation and expectation management
+
+Your CV shows backlog and requirements experience, but it doesn’t describe a specific estimation example. Use this answer as your approach, and attach a real project example you can recall:
+
+> “I start by clarifying the outcome and the decision the data product needs to support. Then I triage the request: what’s known about the sources, what’s uncertain, what data quality or governance dependencies exist, who needs to validate it, and what’s the smallest useful outcome? I work with engineers and modellers to estimate the work in parts—source investigation and profiling, ingestion, modelling and transformation, quality controls, validation and release dependencies.  
+>   
+> “I make assumptions and confidence visible, rather than presenting an early estimate as a commitment. If the request is still uncertain, I’ll propose a time-boxed discovery or profiling step and come back with a firmer estimate. When capacity is constrained, I show stakeholders the options and trade-offs—such as reducing scope, sequencing a minimum viable product, or moving another item—and ask the product owner to confirm the priority. I then record the decision, impacts and dependencies in the backlog so expectations stay aligned.”
+
+If asked for a real example, use the CBA dataset onboarding work: explain how reusable templates and patterns reduced effort, but only describe the estimation or prioritisation decisions you personally remember making.
+
+## Technical questions to rehearse
+
+**“How do you approach Bronze, Silver and Gold?”**  
+Explain that Bronze preserves source data with traceability; Silver applies standardisation, quality rules and canonical definitions; Gold presents curated, business-ready datasets and metrics. Mention that the exact boundaries depend on the platform’s conventions and product needs. Show how you make requirements testable at each stage.
+
+**“How do you profile an unfamiliar dataset?”**  
+Describe checking schema and grain, row counts, nulls, uniqueness, valid values, date ranges, referential integrity and relationships. Compare findings with stakeholder assumptions, then document issues, decisions and rules for engineers and testers.
+
+**“How do you define a metric so two teams interpret it consistently?”**  
+Capture its business meaning, calculation, grain, dimensions, filters, time period, exclusions, source fields, owner and validation examples. Confirm the definition with the accountable business owner and record it where downstream users can find it.
+
+**“What do you do when the data doesn’t match the business expectation?”**  
+Trace the metric back through Gold, Silver and Bronze to the source and transformation rules. Use reconciliation and sample records to identify whether the cause is source quality, a mapping, a business rule or an assumption. Bring evidence and options to the decision owner; don’t quietly change the rule.
+
+**“How technical are you as a BA?”**  
+> “I’m comfortable querying and profiling data myself, which helps me test assumptions and have detailed conversations with engineers. My role is to make the requirements and business decisions clear; I work with engineers and modellers on implementation choices rather than prescribing code.”
+
+## Questions for the panel
+
+Pick two or three, depending on time:
+
+- “Which data products or business outcomes would this role focus on first?”
+- “Where do you currently see the most friction: source data discovery, business definitions, modelling decisions, or validation?”
+- “How are responsibilities split between the BA, product manager, modeller and data engineer when a business rule is disputed?”
+- “How does the team handle requests that arrive with urgency but incomplete source or quality information?”
+- “What would you want the person in this role to have clarified or improved in their first 90 days?”
+
+Bianca’s transformation program role may make questions about outcomes, dependencies and decision-making useful. Jane’s project management role may make questions about sequencing, capacity and delivery risks useful. Treat that as a way to tailor your questions, not as a claim about either person’s interview style. The LinkedIn pages weren’t accessible during preparation.
+
+## Final rehearsal
+
+Before the interview, practise the opening pitch and the three stories aloud. For each story, make sure you can state the objective, sources, your personal contribution, one challenge, and a result. Keep answers focused, distinguish what you did from what the team delivered, and be ready to explain the technical detail in business language.
